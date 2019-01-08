@@ -1,6 +1,6 @@
 Package: chipseqDB
 Title: From reads to regions: a Bioconductor workflow to detect differential binding in ChIP-seq data
-Version: 1.4.0
+Version: 1.4.1
 Date: 2018-10-09
 Authors@R: c(person(role=c("aut","cre"), "Aaron", "Lun", email = "infinite.monkeys.with.keyboards@gmail.com"),
         person(role="aut", "Gordon ", "Smyth"))
@@ -28,7 +28,7 @@ License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
 VignetteBuilder: knitr
-biocViews: Workflow, EpigeneticsWorkflow
+biocViews: ImmunoOncologyWorkflow, Workflow, EpigeneticsWorkflow
 Workflow: true
 Suggests: knitr, rmarkdown
 NeedsCompilation: no
